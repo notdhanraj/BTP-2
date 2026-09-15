@@ -215,9 +215,6 @@ Higher R² → Better explanatory performance
 
 RMSE measures the typical magnitude of prediction errors while giving greater weight to larger errors.
 
-\[
-RMSE = \sqrt{\frac{1}{n}\sum_{i=1}^{n}(y_i-\hat{y}_i)^2}
-\]
 
 ```text
 Lower RMSE → Better prediction accuracy
